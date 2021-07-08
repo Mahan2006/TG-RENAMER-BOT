@@ -47,4 +47,4 @@ I am a telegram renamer with permanent thumbnail.
  
 All My Bots are hosted in free Server, if you Likes ma Works, & interested you donate some money it will be helpful for me to Pay my Internet Bills ☺️
  
-**For Donate:** message me {bot_owner}"""
+**For Donate:** message me @Mahan_Official_Admin"""
